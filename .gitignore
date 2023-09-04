@@ -1,2 +1,5 @@
-/cuda
-/.ipynb_checkpoints
+cuda/
+
+cuda/Scripts
+
+/.ipynb_checkpoints/
